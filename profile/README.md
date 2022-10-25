@@ -1,4 +1,4 @@
-![Image of header](gh-header.png)
+![Image of header](profile/gh-header.png)
 
 # 👋 Hi there
 
