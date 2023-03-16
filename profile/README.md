@@ -12,8 +12,9 @@ We take pride in our engineering - both software and hardware.
 
 - We're avid **Rustaceans** and use **Rust 🦀** *everywhere* from our Lightning nodes to our payment hardware.
 - Our first-party apps are written native for their respective platforms, using **Swift** and **Kotlin**.
-- Web apps are written in **SvelteKit** and **TypeScript**.
-- Nearly all of our code is open source. Anything that runs on a device we don't own will always use open source software exclusively. Our server-side tech is closed source, however.
+- Web apps are written in **Rust** using **Leptos**.
+- All of our client code is open source. Anything that runs on a device we don't own will always use open source software exclusively. 
+- We use a in-house developed RPC protocol called [**HardLight**](https://github.com/valeralabs/hardlight) for real-time client-server (plus some server-server) communication
 - Customer privacy is our top priority, and we self-host all our server-side tech. Any data you send to us is exclusively to us, not to a CDN or other third-party.
 
 ## 🤝 Looking for a job?
@@ -26,8 +27,7 @@ Currently, we're looking for:
 
 - [ ] Swift (Apple ecosystem) engineers
 - [ ] Kotlin (Android) engineers
-- [ ] Rust engineers [embedded, backend]
-- [ ] SvelteKit (web) engineers [frontend]
+- [ ] Rust engineers
 - [ ] Hardware engineers
 
 Please note that we're not looking for any other roles at this time!
