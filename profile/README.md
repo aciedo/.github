@@ -1,4 +1,4 @@
-<img src="./header.svg" width="100%">
+<img src="profile/header.svg" width="100%">
 
 # 👋 Hi there
 
