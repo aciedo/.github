@@ -1,8 +1,6 @@
-<img src="profile/header.svg" width="100%">
-
 # 👋 Hi there
 
-We're Valera. ***We make payment tech.*** Or in more words, we're an early-stage payment technology firm developing cutting edge hardware and software using Bitcoin, the internet's native currency. Est. 722,913.
+We're Aciedo. ***We make payment tech.*** Or in more words, we're an early-stage payment technology firm developing cutting edge hardware and software using Bitcoin, the internet's native currency. Est. 722,913.
 
 From daily coffees ☕ to corporate treasuries 💼, we help people ~~trust~~ **verify** their money. We support the 1.7 billion that banks rejected, and we help everyone else protect themselves against cancerous inflation.
 
@@ -14,7 +12,7 @@ We take pride in our engineering - both software and hardware.
 - Our first-party apps are written native for their respective platforms, using **Swift** and **Kotlin**.
 - Web apps are written in **Rust** using **Leptos**.
 - All of our client code is open source. Anything that runs on a device we don't own will always use open source software exclusively. 
-- We use a in-house developed RPC protocol called [**HardLight**](https://github.com/valeralabs/hardlight) for real-time client-server comms
+- We use a in-house developed RPC protocol called [**HardLight**](https://github.com/aciedo/hardlight) for real-time client-server comms
 
 ## 🤝 Looking for a job?
 
@@ -26,9 +24,9 @@ Currently, we're looking for:
 
 - [ ] Swift (Apple ecosystem) engineers
 - [ ] Kotlin (Android) engineers
-- [ ] Rust engineers
+- [x] Rust engineers
 - [ ] Hardware engineers
 
-Please note that we're not looking for any other roles at this time!
+Please note that we're not looking for any other roles apart from the marked ones above at this time!
 
 <sub>If you have experience working on Bitcoin, that's a massive plus! And **bitcoin-only**, we don't do "crypto" here.</sub>
