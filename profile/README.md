@@ -16,7 +16,7 @@ We take pride in our engineering - both software and hardware.
 
 ## 🤝 Looking for a job?
 
-We're always looking for talented engineers to join our team. If you're interested, please reach out to us at [jobs@valera.co](mailto:jobs@valera.co).
+We're always looking for talented engineers to join our team. If you're interested, please reach out to us at [jobs@acie.do](mailto:jobs@acie.do).
 
 ---
 
